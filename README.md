@@ -5,7 +5,7 @@ This project is a React-based interactive chessboard application that allows use
 ## Live Demo
 
 You can access the live version of this project at:  
-[Live Chess Board]https://210130107079.github.io/chessboard_live/
+[Live Chess Board](https://210130107079.github.io/chessboard_live/)
 
 
 ## Features
